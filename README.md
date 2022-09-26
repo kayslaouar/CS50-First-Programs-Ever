@@ -1,1 +1,3 @@
-# FIRST-PROGRAMS-EVER-CS50-
+# Beginning of Programming Career with CS50 on edX
+
+Various projects using C, Python, SQL
